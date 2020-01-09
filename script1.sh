@@ -1,0 +1,16 @@
+usearch10 -fastq_filter AlDA1.1.fq -fastqout ./short/AlDA1_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlDA2.1.fq -fastqout ./short/AlDA2_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlDB1.1.fq -fastqout ./short/AlDB1_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlDB2.1.fq -fastqout ./short/AlDB2_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlPA1.1.fq -fastqout ./short/AlPA1_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlPA2.1.fq -fastqout ./short/AlPA2_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlPB1.1.fq -fastqout ./short/AlPB1_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlPB2.1.fq -fastqout ./short/AlPB2_R1_short.fq -fastq_trunclen 86 -fastq_stripleft 4 -threads 1
+usearch10 -fastq_filter AlDA1.2.fq -fastqout ./short/AlDA1_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlDA2.2.fq -fastqout ./short/AlDA2_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlDB1.2.fq -fastqout ./short/AlDB1_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlDB2.2.fq -fastqout ./short/AlDB2_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlPA1.2.fq -fastqout ./short/AlPA1_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlPA2.2.fq -fastqout ./short/AlPA2_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlPB1.2.fq -fastqout ./short/AlPB1_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
+usearch10 -fastq_filter AlPB2.2.fq -fastqout ./short/AlPB2_R2_short.fq -fastq_trunclen 86 -fastq_stripleft 14 -threads 1
